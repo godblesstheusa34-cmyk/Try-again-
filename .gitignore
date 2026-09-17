@@ -1,0 +1,14 @@
+.gradle/
+.idea/
+local.properties
+**/build/
+*.iml
+*.apk
+*.aab
+*.keystore
+*.jks
+.toolchain/
+gradle/wrapper/gradle-wrapper.jar
+
+__pycache__/
+*.py[cod]
